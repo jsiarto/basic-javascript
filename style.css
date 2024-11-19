@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+  background: gainsboro;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+#think {
+  background: green;
+  color: white;
+}
+
+.book {
+  width: 200px;
+  padding: 20px;
+  display: inline-block;
+}
